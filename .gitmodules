@@ -1,0 +1,3 @@
+[submodule "sxutil"]
+	path = sxutil
+	url = https://github.com/synerex/synerex_sxutil.git
